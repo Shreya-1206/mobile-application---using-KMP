@@ -11,4 +11,26 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
   you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
 
 
+# Kotlin Multiplatform Mobile App
+
+This is a Kotlin Multiplatform Mobile (KMP) project. The following instructions will help you set up and run the project locally on your machine.
+
+## Prerequisites
+
+Make sure you have the following tools installed:
+
+- **Java Development Kit (JDK)**: Version 11 or higher.
+- **Android Studio**: With Kotlin Multiplatform support.
+- **Xcode**: For iOS development (macOS only).
+- **Kotlin Multiplatform Mobile (KMM) Plugin**: Installed in Android Studio.
+- **CocoaPods**: Required for iOS dependencies, if you're using it.
+
+## Cloning the Repository
+
+Clone the repository to your local machine:
+
+```bash
+git clone <your-repo-url>
+cd <your-repo-directory>
+
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…

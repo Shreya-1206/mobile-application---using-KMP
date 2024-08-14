@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name ="windowSplashScreenBackground">#FF6F61</item>
+        <item name ="windowSplashScreenAnimatedIcon">@drawable/_1557356_br4</item>
+        <item name= "postSplashScreenTheme">@android:style/Theme.Material.NoActionBar</item>
+    </style>
+</resources>
